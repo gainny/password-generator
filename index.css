@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background-color: #171E27;
+}
+#container {
+    background: #1F2937;
+    margin:  50px auto;
+    padding: 100px 40px;
+    max-width: 450px;
+}
+#top-container{
+    color: white;
+}
+#top-container h1 {
+    margin: 0;
+}
+#random {
+    margin: 0;
+    color: #10B981;
+}
+#btn{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 6px;
+    background-color: #10B981;
+    padding: 15px;
+    color: white;
+}
+#password-container {
+    justify-content: center;
+    display: flex;
+    padding: 0;
+}
+#pass1, #pass2{
+    color: #55F991;
+    margin-top: 25px;
+    height: 40px;
+    background: #273549;
+    width: 211px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+#pass2 {
+    margin-left: 26px;
+}
+
+/* #pass2 {
+    margin-left: 30px;
+    height: 40px;
+    background: #273549;
+    border: blue solid 2px;
+    width: 211px;
+} */
