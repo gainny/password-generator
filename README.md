@@ -1,19 +1,16 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Password Generator 🔐
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple web application that generates secure, random passwords based on user-selected criteria like length, letters, numbers, and symbols.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Live Demo
+[View the Website Here](https://gainny.github.io/password-generator/)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-Happy Coding!
+## 📚 How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/gainny/password-generator.git
